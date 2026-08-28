@@ -49,7 +49,7 @@
     "alt": "pandazino logo"
   },
   "main_background_img": {
-    "url": "/uploads/da5f7a1776ee5c1624e9f4b3b4e0e15d.webp",
+    "url": "/uploads/69763444fab07ce2165bd7181f718c4a.webp",
     "alt": "pandazino baner"
   },
   "header_menu": null,
@@ -59,8 +59,8 @@
   "Bonuses": null,
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-08-28T09:16:51.272Z",
+  "_generated_at": "2026-08-28T09:29:43.557Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-08-28T09:16:53.795Z",
-  "_deploy_trigger": "r53dzn"
+  "_last_deploy": "2026-08-28T09:29:44.096Z",
+  "_deploy_trigger": "uks9p3e"
 }
